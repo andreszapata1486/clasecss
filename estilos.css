@@ -1,0 +1,26 @@
+p{
+    font-size: 20px;
+    font-family: "helvetica";
+    font-weight: bold;
+    font-style: italic;
+    color: #00F2E3;
+    text-align: center;
+    
+    
+}
+
+
+
+
+
+main{
+  background-image: url(https://images-na.ssl-images-amazon.com/images/I/610hItUuAUL._SX466_.jpg);
+}
+header{
+    background-image: url(https://www.dhresource.com/600x600/f2/albu/g10/M00/3D/94/rBVaVlzLGJ-AfqJSAAMJeJ9RdHc395.jpg);
+}
+footer{
+    background-image: url(https://i.pinimg.com/originals/36/1c/40/361c408233510769cb63b2fe0e6dc18d.jpg);
+
+}
+    
